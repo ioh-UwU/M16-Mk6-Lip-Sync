@@ -1,6 +1,6 @@
 # Protogen Visor Lipsync
 
-Based on [coolledux-linux-uploader](https://github.com/zackmcmurrin-dev/coolledux-linux-uploader?tab=MIT-1-ov-file) by zackmcmurrin-dev.<br>
+Based on [coolledux-linux-uploader](https://github.com/zackmcmurrin-dev/coolledux-linux-uploader) by zackmcmurrin-dev.<br>
 Driver software to allow real-time animation from pre-made frames on CoolLEDUX devices.<br>
 Originally designed for M16 Studios' Mk6 visor, which uses a flexible 64x16 CoolLEDUX display.<br>
 The program uses an I2S microphone input into a Raspberry Pi Pico 2W to send idle/speech viseme animation frames to the visor. I have not tested it on a Pico (1) W, but you do need a Pico (or other microcontroller) with BLE support.<br>
