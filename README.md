@@ -18,7 +18,7 @@ Driver - MicroPython
 # Instructions
 
 ## Setup
-1. `git clone` this repository
+1. `git clone https://github.com/ioh-UwU/M16-Mk6-Lip-Sync`
 2. [Download Thonny](https://thonny.org/) *(Easiest to interact with the Pi Pico, other IDEs also work, but these instructions will use Thonny)*
 3. `Tools` > `Manage Packages` > Search for and install `bleak` and `pillow`
 4. Connect your Pi Pico to your computer in BOOTSEL mode. *(hold the BOOTSEL button, plug it in, release the BOOTSEL button)*
